@@ -1,0 +1,27 @@
+$font-family-sans-serif: 'League Spartan', sans-serif;
+$primary : hsl(300, 43%, 22%);
+$secondary : hsl(333, 80%, 67%);
+$info : hsl(303, 10%, 53%);
+$success : hsl(300, 24%, 96%);
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;400;500;700&display=swap');
+
+
+
+
+
+@import "../node_modules/@fortawesome/fontawesome-free/css/all.min.css";
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+.gold {
+    color: gold;
+}
+
+.br {
+    border-radius: 0.6rem !important;
+}
+
